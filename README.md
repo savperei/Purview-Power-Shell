@@ -3,8 +3,8 @@ Microsoft Purview data security solutions help you manage and monitor your data 
 
 PowerShell command 
 
-# Install the xs module if you haven't already
-Install-Module -Name XS -AllowClobber -Force
+# Install the Xs module if you haven't already
+Install-Module -Name Xs -AllowClobber -Force
 
 # Import the Xs module
 Import-Module -Name Xs
