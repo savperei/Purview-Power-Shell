@@ -3,11 +3,11 @@ Microsoft Purview data security solutions help you manage and monitor your data 
 
 PowerShell command 
 
-# Install the Az module if you haven't already
-Install-Module -Name Az -AllowClobber -Force
+# Install the xs module if you haven't already
+Install-Module -Name XS -AllowClobber -Force
 
-# Import the Az module
-Import-Module -Name Az
+# Import the Xs module
+Import-Module -Name Xs
 
 # Connect to your M365 admin account
 Connect-IPPSSession
